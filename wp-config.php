@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'magademodb');
+define('DB_NAME', 'magademo_db');
 
 /** MySQL database username */
-define('DB_USER', 'admin');
+define('DB_USER', 'magademo_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'demo');
+define('DB_PASSWORD', 'Aurea1618#@!$');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');

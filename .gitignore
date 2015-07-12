@@ -1,0 +1,7 @@
+# Archivos a ignorar al sincronización con Git Hub #
+####################################################
+
+wm
+cgi-bin
+htaccess.txt
+wp-config.php
