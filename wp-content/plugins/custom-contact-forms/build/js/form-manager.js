@@ -352,7 +352,7 @@
 					type: 'ccf_form',
 					status: 'publish',
 					description: '',
-					buttonText: 'Submit Form',
+					buttonText: 'Contáctanos',
 					completionActionType: 'text',
 					completionRedirectUrl: '',
 					completionMessage: '',
