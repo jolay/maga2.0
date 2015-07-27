@@ -1718,9 +1718,12 @@ a.search-link:after {
   background: #00A100;
 }
 .search-page-search-form {
-  padding-bottom: 60px;
-  border-bottom: 1px solid #E6E5E6;
-  margin-bottom: 60px;
+  padding-bottom: 7px;
+  border:0;
+  margin-bottom: 7px;
+}
+.post.grid-post.clearfix.page.type-page.status-publish.hentry .post-wrapper {
+  border-top:4px solid #229b17;
 }
 .search-page-search-form .seach-form {
   text-align: right;
@@ -16798,3 +16801,24 @@ table {
 .fusion-vimeo.center-video .video-shortcode {
   margin: 0 auto;
 }
+.margTp { margin-top: 28px;}
+
+#post-11800 textarea.field-input {
+  padding: 8px 15px;
+}
+.espacioInicio { margin-bottom: 58px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
